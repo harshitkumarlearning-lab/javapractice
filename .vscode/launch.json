@@ -3,6 +3,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "pushEleAtIdx",
+      "request": "launch",
+      "mainClass": "stack.pushEleAtIdx",
+      "projectName": "Java PW_63ac417c"
+    },
+    {
+      "type": "java",
+      "name": "push_ele_bottom",
+      "request": "launch",
+      "mainClass": "stack.push_ele_bottom",
+      "projectName": "Java PW_63ac417c"
+    },
+    {
+      "type": "java",
+      "name": "displayStack",
+      "request": "launch",
+      "mainClass": "stack.displayStack",
+      "projectName": "Java PW_63ac417c"
+    },
+    {
+      "type": "java",
+      "name": "copynprint",
+      "request": "launch",
+      "mainClass": "stack.copynprint",
+      "projectName": "Java PW_63ac417c"
+    },
+    {
+      "type": "java",
+      "name": "ReverseStack",
+      "request": "launch",
+      "mainClass": "stack.ReverseStack",
+      "projectName": "Java PW_63ac417c"
+    },
+    {
+      "type": "java",
+      "name": "stackImp",
+      "request": "launch",
+      "mainClass": "stack.stackImp",
+      "projectName": "Java PW_63ac417c"
+    },
+    {
+      "type": "java",
       "name": "AreaOfCircle",
       "request": "launch",
       "mainClass": "AreaOfCircle",
@@ -78,24 +120,5 @@
       "mainClass": "LinkedList.insertAtStart",
       "projectName": "Java PW_63ac417c"
     },
-    {
-      "name": "C/C++ Runner: Debug Session",
-      "type": "cppdbg",
-      "request": "launch",
-      "args": [],
-      "stopAtEntry": false,
-      "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
-      "MIMode": "gdb",
-      "miDebuggerPath": "gdb",
-      "setupCommands": [
-        {
-          "description": "Enable pretty-printing for gdb",
-          "text": "-enable-pretty-printing",
-          "ignoreFailures": true
-        }
-      ]
-    }
   ]
 }
