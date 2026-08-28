@@ -1,0 +1,101 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "AreaOfCircle",
+      "request": "launch",
+      "mainClass": "AreaOfCircle",
+      "projectName": "Java PW_63ac417c"
+    },
+    {
+      "type": "java",
+      "name": "insertion",
+      "request": "launch",
+      "mainClass": "doublee_linkedlist3.insertion",
+      "projectName": "Java PW_63ac417c"
+    },
+    {
+      "type": "java",
+      "name": "doubleLL",
+      "request": "launch",
+      "mainClass": "doublee_linkedlist3.doubleLL",
+      "projectName": "Java PW_63ac417c"
+    },
+    {
+      "type": "java",
+      "name": "insertAtEnd",
+      "request": "launch",
+      "mainClass": "LinkedList.insertAtEnd",
+      "projectName": "Java PW_63ac417c"
+    },
+    {
+      "type": "java",
+      "name": "TestApp",
+      "request": "launch",
+      "mainClass": "OOPS.TestApp",
+      "projectName": "Java PW_63ac417c"
+    },
+    {
+      "type": "java",
+      "name": "list",
+      "request": "launch",
+      "mainClass": "homework.list",
+      "projectName": "Java PW_63ac417c"
+    },
+    {
+      "type": "java",
+      "name": "makenood",
+      "request": "launch",
+      "mainClass": "LLHomework.makenood",
+      "projectName": "Java PW_63ac417c"
+    },
+    {
+      "type": "java",
+      "name": "practice1",
+      "request": "launch",
+      "mainClass": "LinkedList.practice1",
+      "projectName": "Java PW_63ac417c"
+    },
+    {
+      "type": "java",
+      "name": "sll2",
+      "request": "launch",
+      "mainClass": "linkedlist1.sll2",
+      "projectName": "Java PW_63ac417c"
+    },
+    {
+      "type": "java",
+      "name": "sll1",
+      "request": "launch",
+      "mainClass": "linkedlist1.sll1",
+      "projectName": "Java PW_63ac417c"
+    },
+    {
+      "type": "java",
+      "name": "insertAtStart",
+      "request": "launch",
+      "mainClass": "LinkedList.insertAtStart",
+      "projectName": "Java PW_63ac417c"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
