@@ -7,8 +7,7 @@ class Node {
     }
 }
 class Stack{
-    Node head = null;
-    int size = 0;
+    private Node head = null;
     void push(int x){
         Node temp = new Node(x);
         temp.next = head;
