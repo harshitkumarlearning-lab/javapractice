@@ -3,6 +3,55 @@
   "configurations": [
     {
       "type": "java",
+      "name": "previos_greater_ele",
+      "request": "launch",
+      "mainClass": "stack.previos_greater_ele",
+      "projectName": "Java PW_63ac417c"
+    },
+    {
+      "type": "java",
+      "name": "Next_gretest_ele",
+      "request": "launch",
+      "mainClass": "stack.Next_gretest_ele",
+      "projectName": "Java PW_63ac417c"
+    },
+    {
+      "type": "java",
+      "name": "Q2_removeConsecutive",
+      "request": "launch",
+      "mainClass": "stack.Q2_removeConsecutive",
+      "projectName": "Java PW_63ac417c"
+    },
+    {
+      "type": "java",
+      "name": "Q1_valid_parenthesis",
+      "request": "launch",
+      "mainClass": "stack.Q1_valid_parenthesis",
+      "projectName": "Java PW_63ac417c"
+    },
+    {
+      "type": "java",
+      "name": "stackUsingLinkedList",
+      "request": "launch",
+      "mainClass": "stack.stackUsingLinkedList",
+      "projectName": "Java PW_63ac417c"
+    },
+    {
+      "type": "java",
+      "name": "arrayUsingStack",
+      "request": "launch",
+      "mainClass": "stack.arrayUsingStack",
+      "projectName": "Java PW_63ac417c"
+    },
+    {
+      "type": "java",
+      "name": "recursive",
+      "request": "launch",
+      "mainClass": "stack.recursive",
+      "projectName": "Java PW_63ac417c"
+    },
+    {
+      "type": "java",
       "name": "pushEleAtIdx",
       "request": "launch",
       "mainClass": "stack.pushEleAtIdx",
@@ -119,6 +168,6 @@
       "request": "launch",
       "mainClass": "LinkedList.insertAtStart",
       "projectName": "Java PW_63ac417c"
-    },
+    }
   ]
 }
