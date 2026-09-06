@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "previos_gretest_ele",
+      "request": "launch",
+      "mainClass": "stack.previos_gretest_ele",
+      "projectName": "Java PW_8fcfa2ed"
+    },
+    {
+      "type": "java",
       "name": "previos_greater_ele",
       "request": "launch",
       "mainClass": "stack.previos_greater_ele",
