@@ -2,18 +2,18 @@ package stack;
 import java.util.Scanner;
 import java.util.Stack;
 public class lifespan {
-    public static void lifespan(int [] arr){
-        Stack<Integer> st = new Stack<>()
+    public static void stockSpan(int [] arr){
+        Stack<Integer> st = new Stack<>();
         int n = arr.length;
-        int s;
-        for(int i = 1; i<n; i++){
-            s = 1;
-            for(int j = 0; j<i; j++){
-                if(arr[i]>arr[j]){
-                    s++;
-                    st.push(s);
-                }
-            }
+        int[] res = new int[n];
+        for(int i = 0; i<n; i++){
+            while(!st.isEmpty() && arr[i]>=arr[st.peek()]) st.pop();
+            if(st.isEmpty()) res[i] = i+1;
+            else res[i] = i-st.peek();
+            st.push(i);
+        }
+        for (int i = 0; i < res.length; i++) {
+            System.out.print(res[i]+" ");
         }
     }
     public static void main(String[] args) {
