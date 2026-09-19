@@ -3,6 +3,90 @@
   "configurations": [
     {
       "type": "java",
+      "name": "basicSTL",
+      "request": "launch",
+      "mainClass": "Queue.basicSTL",
+      "projectName": "Java PW_8fcfa2ed"
+    },
+    {
+      "type": "java",
+      "name": "prefix_to_infix",
+      "request": "launch",
+      "mainClass": "stack.prefix_to_infix",
+      "projectName": "Java PW_8fcfa2ed"
+    },
+    {
+      "type": "java",
+      "name": "postfix_to_infix",
+      "request": "launch",
+      "mainClass": "stack.postfix_to_infix",
+      "projectName": "Java PW_8fcfa2ed"
+    },
+    {
+      "type": "java",
+      "name": "postfix_to_prefix",
+      "request": "launch",
+      "mainClass": "stack.postfix_to_prefix",
+      "projectName": "Java PW_8fcfa2ed"
+    },
+    {
+      "type": "java",
+      "name": "prefix_to_postfix",
+      "request": "launch",
+      "mainClass": "stack.prefix_to_postfix",
+      "projectName": "Java PW_8fcfa2ed"
+    },
+    {
+      "type": "java",
+      "name": "prefix_evaluation",
+      "request": "launch",
+      "mainClass": "stack.prefix_evaluation",
+      "projectName": "Java PW_8fcfa2ed"
+    },
+    {
+      "type": "java",
+      "name": "postfix_Evaluation",
+      "request": "launch",
+      "mainClass": "stack.postfix_Evaluation",
+      "projectName": "Java PW_8fcfa2ed"
+    },
+    {
+      "type": "java",
+      "name": "infix_to_postfix",
+      "request": "launch",
+      "mainClass": "stack.infix_to_postfix",
+      "projectName": "Java PW_8fcfa2ed"
+    },
+    {
+      "type": "java",
+      "name": "prefix",
+      "request": "launch",
+      "mainClass": "stack.prefix",
+      "projectName": "Java PW_8fcfa2ed"
+    },
+    {
+      "type": "java",
+      "name": "infix",
+      "request": "launch",
+      "mainClass": "stack.infix",
+      "projectName": "Java PW_8fcfa2ed"
+    },
+    {
+      "type": "java",
+      "name": "area_of_circle",
+      "request": "launch",
+      "mainClass": "Revision1.area_of_circle",
+      "projectName": "Java PW_8fcfa2ed"
+    },
+    {
+      "type": "java",
+      "name": "lifespan",
+      "request": "launch",
+      "mainClass": "stack.lifespan",
+      "projectName": "Java PW_8fcfa2ed"
+    },
+    {
+      "type": "java",
       "name": "previos_gretest_ele",
       "request": "launch",
       "mainClass": "stack.previos_gretest_ele",
