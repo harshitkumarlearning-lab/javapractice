@@ -1,12 +1,6 @@
 package Queue;
 import java.util.*;
 public class printqueue {
-    public static void add(Stack<Integer>st,int val){
-        st.push(val);
-    }
-    void display(Stack<Integer>st){
-        System.out.println(st);
-    }
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         Queue<Integer> st = new LinkedList<>();
