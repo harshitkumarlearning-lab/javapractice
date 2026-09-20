@@ -4,7 +4,7 @@ public class queue_using_array {
         int f = -1;
         int r = -1;
         int size = 0;
-        int []arr = new int[5];
+        int []arr = new int[100];
         void enqueue(int val){
             if(r==arr.length-1){
                 System.out.println("Queue is full");
