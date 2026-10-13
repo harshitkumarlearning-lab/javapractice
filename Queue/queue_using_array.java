@@ -25,7 +25,7 @@ public class queue_using_array {
                 return 0;
             }
             f++;
-            size++;
+            size--;
             return arr[f-1];
         }
         int peek(){
