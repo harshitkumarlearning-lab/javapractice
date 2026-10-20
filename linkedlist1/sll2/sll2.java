@@ -1,4 +1,4 @@
-package linkedlist1;
+package linkedlist1.sll2;
 import java.util.Scanner;
 class node {
     int val;

@@ -1,4 +1,4 @@
-package Revision1;
+package Revision1.first_occurence;
 import java.util.Scanner;
 public class first_occurence {
     public static void main(String[] args) {

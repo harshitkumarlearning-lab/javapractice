@@ -1,4 +1,4 @@
-package Revision1;
+package Revision1.m1;
 public class m1 {
     public static void main(String[] args) {
         calculator calc = new calculator();

@@ -1,4 +1,4 @@
-package linkedlist1;
+package linkedlist1.sll1;
 class node {
     int val;
     node next;

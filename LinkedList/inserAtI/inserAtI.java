@@ -1,4 +1,4 @@
-package LinkedList;
+package LinkedList.inserAtI;
 class node{
     int val;
     node next;

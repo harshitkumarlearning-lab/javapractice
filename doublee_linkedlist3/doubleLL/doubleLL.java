@@ -1,4 +1,4 @@
-package doublee_linkedlist3;
+package doublee_linkedlist3.doubleLL;
 class Node{
     int val;
     Node next;

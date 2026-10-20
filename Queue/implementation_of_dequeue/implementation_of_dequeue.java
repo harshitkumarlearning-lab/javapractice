@@ -1,4 +1,4 @@
-package Queue;
+package Queue.implementation_of_dequeue;
 
 class node{
     int val;

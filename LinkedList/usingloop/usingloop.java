@@ -1,4 +1,4 @@
-package LinkedList;
+package LinkedList.usingloop;
 class node{
     int val;
     node next;

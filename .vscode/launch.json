@@ -3,6 +3,139 @@
   "configurations": [
     {
       "type": "java",
+      "name": "levelOrderPrintingDFS",
+      "request": "launch",
+      "mainClass": "Binary_Tree.levelOrderPrintingDFS.levelOrderPrintingDFS",
+      "projectName": "Java PW_8fcfa2ed"
+    },
+    {
+      "type": "java",
+      "name": "printNthLevelBFS",
+      "request": "launch",
+      "mainClass": "Binary_Tree.printNthLevelBFS.printNthLevelBFS",
+      "projectName": "Java PW_8fcfa2ed"
+    },
+    {
+      "type": "java",
+      "name": "levelOrderTravBFS",
+      "request": "launch",
+      "mainClass": "Binary_Tree.levelOrderTravBFS.levelOrderTravBFS",
+      "projectName": "Java PW_8fcfa2ed"
+    },
+    {
+      "type": "java",
+      "name": "level_binaryTree",
+      "request": "launch",
+      "mainClass": "Binary_Tree.level_binaryTree.level_binaryTree",
+      "projectName": "Java PW_8fcfa2ed"
+    },
+    {
+      "type": "java",
+      "name": "size_binaryTree",
+      "request": "launch",
+      "mainClass": "Binary_Tree.size_binaryTree.size_binaryTree",
+      "projectName": "Java PW_8fcfa2ed"
+    },
+    {
+      "type": "java",
+      "name": "min_node",
+      "request": "launch",
+      "mainClass": "Binary_Tree.min_node.min_node",
+      "projectName": "Java PW_8fcfa2ed"
+    },
+    {
+      "type": "java",
+      "name": "max_node",
+      "request": "launch",
+      "mainClass": "Binary_Tree.max_node.max_node",
+      "projectName": "Java PW_8fcfa2ed"
+    },
+    {
+      "type": "java",
+      "name": "product_of_nonZero",
+      "request": "launch",
+      "mainClass": "Binary_Tree.product_of_nonZero.product_of_nonZero",
+      "projectName": "Java PW_8fcfa2ed"
+    },
+    {
+      "type": "java",
+      "name": "product_tree_node",
+      "request": "launch",
+      "mainClass": "Binary_Tree.product_tree_node.product_tree_node",
+      "projectName": "Java PW_8fcfa2ed"
+    },
+    {
+      "type": "java",
+      "name": "sum_of_tree",
+      "request": "launch",
+      "mainClass": "Binary_Tree.sum_of_tree.sum_of_tree",
+      "projectName": "Java PW_8fcfa2ed"
+    },
+    {
+      "type": "java",
+      "name": "basic_Implementation",
+      "request": "launch",
+      "mainClass": "Binary_Tree.basic_Implementation.basic_Implementation",
+      "projectName": "Java PW_8fcfa2ed"
+    },
+    {
+      "type": "java",
+      "name": "reverseKthQueue",
+      "request": "launch",
+      "mainClass": "Queue.reverseKthQueue",
+      "projectName": "Java PW_8fcfa2ed"
+    },
+    {
+      "type": "java",
+      "name": "implementation_of_dequeue",
+      "request": "launch",
+      "mainClass": "Queue.implementation_of_dequeue",
+      "projectName": "Java PW_8fcfa2ed"
+    },
+    {
+      "type": "java",
+      "name": "merge_Sorted",
+      "request": "launch",
+      "mainClass": "Collage_Class_Work.merge_Sorted",
+      "projectName": "Java PW_8fcfa2ed"
+    },
+    {
+      "type": "java",
+      "name": "circular_queue_using_LinkedList",
+      "request": "launch",
+      "mainClass": "Queue.circular_queue_using_LinkedList",
+      "projectName": "Java PW_8fcfa2ed"
+    },
+    {
+      "type": "java",
+      "name": "circular_queue_using_array",
+      "request": "launch",
+      "mainClass": "Queue.circular_queue_using_array",
+      "projectName": "Java PW_8fcfa2ed"
+    },
+    {
+      "type": "java",
+      "name": "queue_using_linkedlist",
+      "request": "launch",
+      "mainClass": "Queue.queue_using_linkedlist",
+      "projectName": "Java PW_8fcfa2ed"
+    },
+    {
+      "type": "java",
+      "name": "queue_using_array",
+      "request": "launch",
+      "mainClass": "Queue.queue_using_array",
+      "projectName": "Java PW_8fcfa2ed"
+    },
+    {
+      "type": "java",
+      "name": "printqueue",
+      "request": "launch",
+      "mainClass": "Queue.printqueue",
+      "projectName": "Java PW_8fcfa2ed"
+    },
+    {
+      "type": "java",
       "name": "basicSTL",
       "request": "launch",
       "mainClass": "Queue.basicSTL",

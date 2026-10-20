@@ -1,4 +1,4 @@
-package Revision1;
+package Revision1.inbuilt_function;
 import java.util.Arrays;
 import java.util.Scanner;
 public class inbuilt_function {

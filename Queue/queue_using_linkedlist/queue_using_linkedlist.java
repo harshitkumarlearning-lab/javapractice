@@ -1,4 +1,4 @@
-package Queue;
+package Queue.queue_using_linkedlist;
 class node{
     int val;
     node next;

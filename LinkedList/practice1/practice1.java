@@ -1,4 +1,4 @@
-package LinkedList;
+package LinkedList.practice1;
 class node{
     int val;
     node next;
